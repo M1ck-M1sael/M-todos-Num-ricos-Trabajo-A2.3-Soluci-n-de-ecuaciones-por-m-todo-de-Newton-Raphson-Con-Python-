@@ -38,3 +38,5 @@ valor_inicial = 0.5
 limite_error = 1e-6
 
 newton_raphson(valor_inicial, limite_error)
+
+# iba a generar una grafica aca, mestra, pero la verdad ya medio cosita jeje
